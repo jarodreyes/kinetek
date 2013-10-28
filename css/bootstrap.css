@@ -365,6 +365,9 @@ hr {
 .wrapper .sidebar hr {
   margin-bottom: 30px;
 }
+.wrapper .sidebar p {
+  line-height: 26px;
+}
 .wrapper .sidebar-item {
   display: none;
 }
